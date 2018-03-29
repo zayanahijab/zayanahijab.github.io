@@ -63,6 +63,9 @@ button:focus{
 .form-control{
     border-radius: 0;
 }
+.iv-container{
+	margin-top: -1em;
+}
 .content-img{
     margin-top: 5px;
 }
